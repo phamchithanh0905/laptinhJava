@@ -849,3 +849,4 @@ Progress log 848: updated login module, refactored session handling
 Progress log 849: updated login module, refactored session handling
 Progress log 850: updated login module, refactored session handling
 Progress log 851: updated login module, refactored session handling
+Progress log 852: updated login module, refactored session handling
