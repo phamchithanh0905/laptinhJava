@@ -9,3 +9,4 @@ Progress log 8: updated login module, refactored session handling
 Progress log 9: updated login module, refactored session handling
 Progress log 10: updated login module, refactored session handling
 Progress log 11: updated login module, refactored session handling
+Progress log 12: updated login module, refactored session handling
