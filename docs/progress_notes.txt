@@ -813,3 +813,4 @@ Progress log 812: updated login module, refactored session handling
 Progress log 813: updated login module, refactored session handling
 Progress log 814: updated login module, refactored session handling
 Progress log 815: updated login module, refactored session handling
+Progress log 816: updated login module, refactored session handling
