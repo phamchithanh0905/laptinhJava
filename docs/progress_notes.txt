@@ -127,3 +127,4 @@ Progress log 126: updated login module, refactored session handling
 Progress log 127: updated login module, refactored session handling
 Progress log 128: updated login module, refactored session handling
 Progress log 129: updated login module, refactored session handling
+Progress log 130: updated login module, refactored session handling
