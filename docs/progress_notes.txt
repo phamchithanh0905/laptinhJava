@@ -478,3 +478,4 @@ Progress log 477: updated login module, refactored session handling
 Progress log 478: updated login module, refactored session handling
 Progress log 479: updated login module, refactored session handling
 Progress log 480: updated login module, refactored session handling
+Progress log 481: updated login module, refactored session handling
