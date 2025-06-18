@@ -1,2 +1,3 @@
 Progress log 1: updated login module, refactored session handling
 Progress log 2: updated login module, refactored session handling
+Progress log 3: updated login module, refactored session handling
