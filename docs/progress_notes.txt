@@ -800,3 +800,4 @@ Progress log 799: updated login module, refactored session handling
 Progress log 800: updated login module, refactored session handling
 Progress log 801: updated login module, refactored session handling
 Progress log 802: updated login module, refactored session handling
+Progress log 803: updated login module, refactored session handling
