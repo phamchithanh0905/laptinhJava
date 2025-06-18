@@ -261,3 +261,4 @@ Progress log 260: updated login module, refactored session handling
 Progress log 261: updated login module, refactored session handling
 Progress log 262: updated login module, refactored session handling
 Progress log 263: updated login module, refactored session handling
+Progress log 264: updated login module, refactored session handling
