@@ -205,3 +205,4 @@ Progress log 204: updated login module, refactored session handling
 Progress log 205: updated login module, refactored session handling
 Progress log 206: updated login module, refactored session handling
 Progress log 207: updated login module, refactored session handling
+Progress log 208: updated login module, refactored session handling
