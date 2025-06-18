@@ -892,3 +892,4 @@ Progress log 891: updated login module, refactored session handling
 Progress log 892: updated login module, refactored session handling
 Progress log 893: updated login module, refactored session handling
 Progress log 894: updated login module, refactored session handling
+Progress log 895: updated login module, refactored session handling
