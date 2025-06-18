@@ -938,3 +938,4 @@ Progress log 937: updated login module, refactored session handling
 Progress log 938: updated login module, refactored session handling
 Progress log 939: updated login module, refactored session handling
 Progress log 940: updated login module, refactored session handling
+Progress log 941: updated login module, refactored session handling
