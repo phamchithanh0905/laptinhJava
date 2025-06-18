@@ -527,3 +527,4 @@ Progress log 526: updated login module, refactored session handling
 Progress log 527: updated login module, refactored session handling
 Progress log 528: updated login module, refactored session handling
 Progress log 529: updated login module, refactored session handling
+Progress log 530: updated login module, refactored session handling
