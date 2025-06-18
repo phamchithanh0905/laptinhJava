@@ -591,3 +591,4 @@ Progress log 590: updated login module, refactored session handling
 Progress log 591: updated login module, refactored session handling
 Progress log 592: updated login module, refactored session handling
 Progress log 593: updated login module, refactored session handling
+Progress log 594: updated login module, refactored session handling
