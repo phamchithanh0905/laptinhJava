@@ -874,3 +874,4 @@ Progress log 873: updated login module, refactored session handling
 Progress log 874: updated login module, refactored session handling
 Progress log 875: updated login module, refactored session handling
 Progress log 876: updated login module, refactored session handling
+Progress log 877: updated login module, refactored session handling
