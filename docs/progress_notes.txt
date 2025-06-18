@@ -803,3 +803,4 @@ Progress log 802: updated login module, refactored session handling
 Progress log 803: updated login module, refactored session handling
 Progress log 804: updated login module, refactored session handling
 Progress log 805: updated login module, refactored session handling
+Progress log 806: updated login module, refactored session handling
