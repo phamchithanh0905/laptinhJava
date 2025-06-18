@@ -602,3 +602,4 @@ Progress log 601: updated login module, refactored session handling
 Progress log 602: updated login module, refactored session handling
 Progress log 603: updated login module, refactored session handling
 Progress log 604: updated login module, refactored session handling
+Progress log 605: updated login module, refactored session handling
