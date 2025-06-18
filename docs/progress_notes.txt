@@ -925,3 +925,4 @@ Progress log 924: updated login module, refactored session handling
 Progress log 925: updated login module, refactored session handling
 Progress log 926: updated login module, refactored session handling
 Progress log 927: updated login module, refactored session handling
+Progress log 928: updated login module, refactored session handling
