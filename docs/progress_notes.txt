@@ -664,3 +664,4 @@ Progress log 663: updated login module, refactored session handling
 Progress log 664: updated login module, refactored session handling
 Progress log 665: updated login module, refactored session handling
 Progress log 666: updated login module, refactored session handling
+Progress log 667: updated login module, refactored session handling
