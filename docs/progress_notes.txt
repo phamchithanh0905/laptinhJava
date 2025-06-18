@@ -944,3 +944,4 @@ Progress log 943: updated login module, refactored session handling
 Progress log 944: updated login module, refactored session handling
 Progress log 945: updated login module, refactored session handling
 Progress log 946: updated login module, refactored session handling
+Progress log 947: updated login module, refactored session handling
