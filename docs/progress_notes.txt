@@ -558,3 +558,4 @@ Progress log 557: updated login module, refactored session handling
 Progress log 558: updated login module, refactored session handling
 Progress log 559: updated login module, refactored session handling
 Progress log 560: updated login module, refactored session handling
+Progress log 561: updated login module, refactored session handling
