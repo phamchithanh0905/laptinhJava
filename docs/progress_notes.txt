@@ -21,3 +21,4 @@ Progress log 20: updated login module, refactored session handling
 Progress log 21: updated login module, refactored session handling
 Progress log 22: updated login module, refactored session handling
 Progress log 23: updated login module, refactored session handling
+Progress log 24: updated login module, refactored session handling
