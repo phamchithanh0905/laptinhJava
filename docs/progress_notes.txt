@@ -215,3 +215,4 @@ Progress log 214: updated login module, refactored session handling
 Progress log 215: updated login module, refactored session handling
 Progress log 216: updated login module, refactored session handling
 Progress log 217: updated login module, refactored session handling
+Progress log 218: updated login module, refactored session handling
