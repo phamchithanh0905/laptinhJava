@@ -49,3 +49,4 @@ Progress log 48: updated login module, refactored session handling
 Progress log 49: updated login module, refactored session handling
 Progress log 50: updated login module, refactored session handling
 Progress log 51: updated login module, refactored session handling
+Progress log 52: updated login module, refactored session handling
