@@ -684,3 +684,4 @@ Progress log 683: updated login module, refactored session handling
 Progress log 684: updated login module, refactored session handling
 Progress log 685: updated login module, refactored session handling
 Progress log 686: updated login module, refactored session handling
+Progress log 687: updated login module, refactored session handling
