@@ -234,3 +234,4 @@ Progress log 233: updated login module, refactored session handling
 Progress log 234: updated login module, refactored session handling
 Progress log 235: updated login module, refactored session handling
 Progress log 236: updated login module, refactored session handling
+Progress log 237: updated login module, refactored session handling
