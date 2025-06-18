@@ -16,3 +16,4 @@ Progress log 15: updated login module, refactored session handling
 Progress log 16: updated login module, refactored session handling
 Progress log 17: updated login module, refactored session handling
 Progress log 18: updated login module, refactored session handling
+Progress log 19: updated login module, refactored session handling
