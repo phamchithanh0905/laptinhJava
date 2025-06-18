@@ -98,3 +98,4 @@ Progress log 97: updated login module, refactored session handling
 Progress log 98: updated login module, refactored session handling
 Progress log 99: updated login module, refactored session handling
 Progress log 100: updated login module, refactored session handling
+Progress log 101: updated login module, refactored session handling
