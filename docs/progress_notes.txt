@@ -501,3 +501,4 @@ Progress log 500: updated login module, refactored session handling
 Progress log 501: updated login module, refactored session handling
 Progress log 502: updated login module, refactored session handling
 Progress log 503: updated login module, refactored session handling
+Progress log 504: updated login module, refactored session handling
