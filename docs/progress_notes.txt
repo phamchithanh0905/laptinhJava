@@ -113,3 +113,4 @@ Progress log 112: updated login module, refactored session handling
 Progress log 113: updated login module, refactored session handling
 Progress log 114: updated login module, refactored session handling
 Progress log 115: updated login module, refactored session handling
+Progress log 116: updated login module, refactored session handling
