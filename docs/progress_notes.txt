@@ -47,3 +47,4 @@ Progress log 46: updated login module, refactored session handling
 Progress log 47: updated login module, refactored session handling
 Progress log 48: updated login module, refactored session handling
 Progress log 49: updated login module, refactored session handling
+Progress log 50: updated login module, refactored session handling
