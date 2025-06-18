@@ -100,3 +100,4 @@ Progress log 99: updated login module, refactored session handling
 Progress log 100: updated login module, refactored session handling
 Progress log 101: updated login module, refactored session handling
 Progress log 102: updated login module, refactored session handling
+Progress log 103: updated login module, refactored session handling
