@@ -499,3 +499,4 @@ Progress log 498: updated login module, refactored session handling
 Progress log 499: updated login module, refactored session handling
 Progress log 500: updated login module, refactored session handling
 Progress log 501: updated login module, refactored session handling
+Progress log 502: updated login module, refactored session handling
