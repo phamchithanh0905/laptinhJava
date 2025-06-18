@@ -508,3 +508,4 @@ Progress log 507: updated login module, refactored session handling
 Progress log 508: updated login module, refactored session handling
 Progress log 509: updated login module, refactored session handling
 Progress log 510: updated login module, refactored session handling
+Progress log 511: updated login module, refactored session handling
