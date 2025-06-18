@@ -157,3 +157,4 @@ Progress log 156: updated login module, refactored session handling
 Progress log 157: updated login module, refactored session handling
 Progress log 158: updated login module, refactored session handling
 Progress log 159: updated login module, refactored session handling
+Progress log 160: updated login module, refactored session handling
