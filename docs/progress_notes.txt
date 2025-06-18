@@ -866,3 +866,4 @@ Progress log 865: updated login module, refactored session handling
 Progress log 866: updated login module, refactored session handling
 Progress log 867: updated login module, refactored session handling
 Progress log 868: updated login module, refactored session handling
+Progress log 869: updated login module, refactored session handling
