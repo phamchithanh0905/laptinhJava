@@ -985,3 +985,4 @@ Progress log 984: updated login module, refactored session handling
 Progress log 985: updated login module, refactored session handling
 Progress log 986: updated login module, refactored session handling
 Progress log 987: updated login module, refactored session handling
+Progress log 988: updated login module, refactored session handling
