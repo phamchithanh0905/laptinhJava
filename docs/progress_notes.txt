@@ -269,3 +269,4 @@ Progress log 268: updated login module, refactored session handling
 Progress log 269: updated login module, refactored session handling
 Progress log 270: updated login module, refactored session handling
 Progress log 271: updated login module, refactored session handling
+Progress log 272: updated login module, refactored session handling
