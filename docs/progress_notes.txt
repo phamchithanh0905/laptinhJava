@@ -975,3 +975,4 @@ Progress log 974: updated login module, refactored session handling
 Progress log 975: updated login module, refactored session handling
 Progress log 976: updated login module, refactored session handling
 Progress log 977: updated login module, refactored session handling
+Progress log 978: updated login module, refactored session handling
