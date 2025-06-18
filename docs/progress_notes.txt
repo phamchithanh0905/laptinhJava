@@ -252,3 +252,4 @@ Progress log 251: updated login module, refactored session handling
 Progress log 252: updated login module, refactored session handling
 Progress log 253: updated login module, refactored session handling
 Progress log 254: updated login module, refactored session handling
+Progress log 255: updated login module, refactored session handling
