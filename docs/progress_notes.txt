@@ -584,3 +584,4 @@ Progress log 583: updated login module, refactored session handling
 Progress log 584: updated login module, refactored session handling
 Progress log 585: updated login module, refactored session handling
 Progress log 586: updated login module, refactored session handling
+Progress log 587: updated login module, refactored session handling
