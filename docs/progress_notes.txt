@@ -106,3 +106,4 @@ Progress log 105: updated login module, refactored session handling
 Progress log 106: updated login module, refactored session handling
 Progress log 107: updated login module, refactored session handling
 Progress log 108: updated login module, refactored session handling
+Progress log 109: updated login module, refactored session handling
