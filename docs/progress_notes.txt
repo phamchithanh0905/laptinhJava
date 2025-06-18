@@ -971,3 +971,4 @@ Progress log 970: updated login module, refactored session handling
 Progress log 971: updated login module, refactored session handling
 Progress log 972: updated login module, refactored session handling
 Progress log 973: updated login module, refactored session handling
+Progress log 974: updated login module, refactored session handling
