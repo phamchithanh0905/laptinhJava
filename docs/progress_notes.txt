@@ -28,3 +28,4 @@ Progress log 27: updated login module, refactored session handling
 Progress log 28: updated login module, refactored session handling
 Progress log 29: updated login module, refactored session handling
 Progress log 30: updated login module, refactored session handling
+Progress log 31: updated login module, refactored session handling
