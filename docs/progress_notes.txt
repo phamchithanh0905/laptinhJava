@@ -886,3 +886,4 @@ Progress log 885: updated login module, refactored session handling
 Progress log 886: updated login module, refactored session handling
 Progress log 887: updated login module, refactored session handling
 Progress log 888: updated login module, refactored session handling
+Progress log 889: updated login module, refactored session handling
