@@ -678,3 +678,4 @@ Progress log 677: updated login module, refactored session handling
 Progress log 678: updated login module, refactored session handling
 Progress log 679: updated login module, refactored session handling
 Progress log 680: updated login module, refactored session handling
+Progress log 681: updated login module, refactored session handling
