@@ -378,3 +378,4 @@ Progress log 377: updated login module, refactored session handling
 Progress log 378: updated login module, refactored session handling
 Progress log 379: updated login module, refactored session handling
 Progress log 380: updated login module, refactored session handling
+Progress log 381: updated login module, refactored session handling
