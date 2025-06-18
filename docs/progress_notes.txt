@@ -711,3 +711,4 @@ Progress log 710: updated login module, refactored session handling
 Progress log 711: updated login module, refactored session handling
 Progress log 712: updated login module, refactored session handling
 Progress log 713: updated login module, refactored session handling
+Progress log 714: updated login module, refactored session handling
