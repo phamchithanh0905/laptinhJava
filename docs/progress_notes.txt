@@ -334,3 +334,4 @@ Progress log 333: updated login module, refactored session handling
 Progress log 334: updated login module, refactored session handling
 Progress log 335: updated login module, refactored session handling
 Progress log 336: updated login module, refactored session handling
+Progress log 337: updated login module, refactored session handling
