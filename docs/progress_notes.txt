@@ -904,3 +904,4 @@ Progress log 903: updated login module, refactored session handling
 Progress log 904: updated login module, refactored session handling
 Progress log 905: updated login module, refactored session handling
 Progress log 906: updated login module, refactored session handling
+Progress log 907: updated login module, refactored session handling
