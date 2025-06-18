@@ -563,3 +563,4 @@ Progress log 562: updated login module, refactored session handling
 Progress log 563: updated login module, refactored session handling
 Progress log 564: updated login module, refactored session handling
 Progress log 565: updated login module, refactored session handling
+Progress log 566: updated login module, refactored session handling
