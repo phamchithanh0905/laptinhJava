@@ -425,3 +425,4 @@ Progress log 424: updated login module, refactored session handling
 Progress log 425: updated login module, refactored session handling
 Progress log 426: updated login module, refactored session handling
 Progress log 427: updated login module, refactored session handling
+Progress log 428: updated login module, refactored session handling
