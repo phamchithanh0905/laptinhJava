@@ -655,3 +655,4 @@ Progress log 654: updated login module, refactored session handling
 Progress log 655: updated login module, refactored session handling
 Progress log 656: updated login module, refactored session handling
 Progress log 657: updated login module, refactored session handling
+Progress log 658: updated login module, refactored session handling
