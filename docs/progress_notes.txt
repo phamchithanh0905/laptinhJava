@@ -415,3 +415,4 @@ Progress log 414: updated login module, refactored session handling
 Progress log 415: updated login module, refactored session handling
 Progress log 416: updated login module, refactored session handling
 Progress log 417: updated login module, refactored session handling
+Progress log 418: updated login module, refactored session handling
