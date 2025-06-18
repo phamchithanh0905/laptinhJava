@@ -997,3 +997,4 @@ Progress log 996: updated login module, refactored session handling
 Progress log 997: updated login module, refactored session handling
 Progress log 998: updated login module, refactored session handling
 Progress log 999: updated login module, refactored session handling
+Progress log 1000: updated login module, refactored session handling
