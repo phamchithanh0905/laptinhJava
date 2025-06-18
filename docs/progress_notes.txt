@@ -247,3 +247,4 @@ Progress log 246: updated login module, refactored session handling
 Progress log 247: updated login module, refactored session handling
 Progress log 248: updated login module, refactored session handling
 Progress log 249: updated login module, refactored session handling
+Progress log 250: updated login module, refactored session handling
