@@ -143,3 +143,4 @@ Progress log 142: updated login module, refactored session handling
 Progress log 143: updated login module, refactored session handling
 Progress log 144: updated login module, refactored session handling
 Progress log 145: updated login module, refactored session handling
+Progress log 146: updated login module, refactored session handling
