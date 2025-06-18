@@ -745,3 +745,4 @@ Progress log 744: updated login module, refactored session handling
 Progress log 745: updated login module, refactored session handling
 Progress log 746: updated login module, refactored session handling
 Progress log 747: updated login module, refactored session handling
+Progress log 748: updated login module, refactored session handling
