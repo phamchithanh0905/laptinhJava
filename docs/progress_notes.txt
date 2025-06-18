@@ -965,3 +965,4 @@ Progress log 964: updated login module, refactored session handling
 Progress log 965: updated login module, refactored session handling
 Progress log 966: updated login module, refactored session handling
 Progress log 967: updated login module, refactored session handling
+Progress log 968: updated login module, refactored session handling
