@@ -950,3 +950,4 @@ Progress log 949: updated login module, refactored session handling
 Progress log 950: updated login module, refactored session handling
 Progress log 951: updated login module, refactored session handling
 Progress log 952: updated login module, refactored session handling
+Progress log 953: updated login module, refactored session handling
