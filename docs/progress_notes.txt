@@ -194,3 +194,4 @@ Progress log 193: updated login module, refactored session handling
 Progress log 194: updated login module, refactored session handling
 Progress log 195: updated login module, refactored session handling
 Progress log 196: updated login module, refactored session handling
+Progress log 197: updated login module, refactored session handling
