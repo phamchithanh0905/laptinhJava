@@ -404,3 +404,4 @@ Progress log 403: updated login module, refactored session handling
 Progress log 404: updated login module, refactored session handling
 Progress log 405: updated login module, refactored session handling
 Progress log 406: updated login module, refactored session handling
+Progress log 407: updated login module, refactored session handling
