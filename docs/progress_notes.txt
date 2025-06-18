@@ -957,3 +957,4 @@ Progress log 956: updated login module, refactored session handling
 Progress log 957: updated login module, refactored session handling
 Progress log 958: updated login module, refactored session handling
 Progress log 959: updated login module, refactored session handling
+Progress log 960: updated login module, refactored session handling
