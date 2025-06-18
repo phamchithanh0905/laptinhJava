@@ -287,3 +287,4 @@ Progress log 286: updated login module, refactored session handling
 Progress log 287: updated login module, refactored session handling
 Progress log 288: updated login module, refactored session handling
 Progress log 289: updated login module, refactored session handling
+Progress log 290: updated login module, refactored session handling
