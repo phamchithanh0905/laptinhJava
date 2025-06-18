@@ -705,3 +705,4 @@ Progress log 704: updated login module, refactored session handling
 Progress log 705: updated login module, refactored session handling
 Progress log 706: updated login module, refactored session handling
 Progress log 707: updated login module, refactored session handling
+Progress log 708: updated login module, refactored session handling
