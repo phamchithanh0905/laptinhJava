@@ -608,3 +608,4 @@ Progress log 607: updated login module, refactored session handling
 Progress log 608: updated login module, refactored session handling
 Progress log 609: updated login module, refactored session handling
 Progress log 610: updated login module, refactored session handling
+Progress log 611: updated login module, refactored session handling
