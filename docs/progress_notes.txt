@@ -33,3 +33,4 @@ Progress log 32: updated login module, refactored session handling
 Progress log 33: updated login module, refactored session handling
 Progress log 34: updated login module, refactored session handling
 Progress log 35: updated login module, refactored session handling
+Progress log 36: updated login module, refactored session handling
