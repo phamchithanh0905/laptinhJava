@@ -77,3 +77,4 @@ Progress log 76: updated login module, refactored session handling
 Progress log 77: updated login module, refactored session handling
 Progress log 78: updated login module, refactored session handling
 Progress log 79: updated login module, refactored session handling
+Progress log 80: updated login module, refactored session handling
