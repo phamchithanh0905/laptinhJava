@@ -58,3 +58,4 @@ Progress log 57: updated login module, refactored session handling
 Progress log 58: updated login module, refactored session handling
 Progress log 59: updated login module, refactored session handling
 Progress log 60: updated login module, refactored session handling
+Progress log 61: updated login module, refactored session handling
