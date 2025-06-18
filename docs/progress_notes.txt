@@ -821,3 +821,4 @@ Progress log 820: updated login module, refactored session handling
 Progress log 821: updated login module, refactored session handling
 Progress log 822: updated login module, refactored session handling
 Progress log 823: updated login module, refactored session handling
+Progress log 824: updated login module, refactored session handling
