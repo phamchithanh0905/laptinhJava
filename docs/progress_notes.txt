@@ -300,3 +300,4 @@ Progress log 299: updated login module, refactored session handling
 Progress log 300: updated login module, refactored session handling
 Progress log 301: updated login module, refactored session handling
 Progress log 302: updated login module, refactored session handling
+Progress log 303: updated login module, refactored session handling
