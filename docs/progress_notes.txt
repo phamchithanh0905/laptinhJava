@@ -751,3 +751,4 @@ Progress log 750: updated login module, refactored session handling
 Progress log 751: updated login module, refactored session handling
 Progress log 752: updated login module, refactored session handling
 Progress log 753: updated login module, refactored session handling
+Progress log 754: updated login module, refactored session handling
