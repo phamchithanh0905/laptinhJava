@@ -89,3 +89,4 @@ Progress log 88: updated login module, refactored session handling
 Progress log 89: updated login module, refactored session handling
 Progress log 90: updated login module, refactored session handling
 Progress log 91: updated login module, refactored session handling
+Progress log 92: updated login module, refactored session handling
