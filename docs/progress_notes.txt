@@ -836,3 +836,4 @@ Progress log 835: updated login module, refactored session handling
 Progress log 836: updated login module, refactored session handling
 Progress log 837: updated login module, refactored session handling
 Progress log 838: updated login module, refactored session handling
+Progress log 839: updated login module, refactored session handling
