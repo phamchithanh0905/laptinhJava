@@ -807,3 +807,4 @@ Progress log 806: updated login module, refactored session handling
 Progress log 807: updated login module, refactored session handling
 Progress log 808: updated login module, refactored session handling
 Progress log 809: updated login module, refactored session handling
+Progress log 810: updated login module, refactored session handling
