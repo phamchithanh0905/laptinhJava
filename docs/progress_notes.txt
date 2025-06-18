@@ -788,3 +788,4 @@ Progress log 787: updated login module, refactored session handling
 Progress log 788: updated login module, refactored session handling
 Progress log 789: updated login module, refactored session handling
 Progress log 790: updated login module, refactored session handling
+Progress log 791: updated login module, refactored session handling
