@@ -392,3 +392,4 @@ Progress log 391: updated login module, refactored session handling
 Progress log 392: updated login module, refactored session handling
 Progress log 393: updated login module, refactored session handling
 Progress log 394: updated login module, refactored session handling
+Progress log 395: updated login module, refactored session handling
