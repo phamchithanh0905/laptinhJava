@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang chủ - Hệ thống hỗ trợ phòng chống ma túy</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+            min-height: 100vh;
+            font-family: 'Quicksand', Arial, sans-serif;
+        }
+        .navbar {
+            border-radius: 0 0 24px 24px;
+            box-shadow: 0 2px 12px #fda08555;
+            background: linear-gradient(90deg, #f7971e 0%, #ffd200 100%) !important;
+        }
+        .navbar-brand, .nav-link, .navbar-nav .nav-link.active {
+            color: #fff !important;
+            font-weight: 600;
+            font-size: 1.1rem;
+            letter-spacing: 0.5px;
+        }
+        .navbar-brand i {
+            color: #fffbe7;
+        }
+        .hero {
+            background: linear-gradient(120deg, #fceabb 0%, #f8b500 100%);
+            color: #e17055;
+            padding: 50px 30px 30px 30px;
+            border-radius: 24px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 24px #fda08599;
+            text-align: center;
+        }
+        .hero h1 {
+            font-weight: bold;
+            color: #e17055;
+            font-size: 2.5rem;
+        }
+        .hero .lead {
+            font-size: 1.3rem;
+            color: #fffbe7;
+        }
+        .btn-primary, .btn-warning, .btn-outline-light {
+            border-radius: 20px;
+            font-weight: 500;
+        }
+        .icon {
+            color: #e17055;
+            margin-right: 8px;
+        }
+        .footer {
+            background: linear-gradient(90deg, #f7971e 0%, #ffd200 100%);
+            color: #fff;
+            padding: 20px 0;
+            margin-top: 40px;
+            text-align: center;
+            border-radius: 24px 24px 0 0;
+            font-size: 1.1rem;
+            box-shadow: 0 -2px 12px #fda08555;
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light mb-4">
+    <a class="navbar-brand font-weight-bold" href="/">
+        <i class="fas fa-hands-helping"></i> Phòng chống ma túy
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active"><a class="nav-link" href="/">Trang chủ</a></li>
+            <li class="nav-item"><a class="nav-link" href="/support">Hỗ trợ</a></li>
+            <li class="nav-item"><a class="nav-link" href="/news">Tin tức</a></li>
+        </ul>
+        <div class="ml-auto">
+            <a href="/login" class="btn btn-outline-light mr-2"><i class="fas fa-sign-in-alt"></i> Đăng nhập quản trị</a>
+            <a href="/admin" class="btn btn-warning text-white"><i class="fas fa-user-shield"></i> Trang quản trị</a>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    <div class="hero">
+        <h1><i class="fas fa-leaf"></i> Chào mừng!</h1>
+        <p class="lead">Nơi kết nối cộng đồng với các nguồn lực, tư vấn và hỗ trợ phòng chống ma túy miễn phí, bảo mật và tận tâm.</p>
+        <a class="btn btn-primary btn-lg mt-3" href="/support" role="button"><i class="fas fa-hands-helping"></i> Truy cập trang hỗ trợ</a>
+    </div>
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <h3><i class="fas fa-users icon"></i>Về chúng tôi</h3>
+            <p>Chúng tôi là đội ngũ chuyên gia và tình nguyện viên, luôn sẵn sàng hỗ trợ bạn vượt qua khó khăn, cung cấp thông tin, tài liệu, và kết nối với các dịch vụ tư vấn uy tín.</p>
+            <ul>
+                <li>Tư vấn tâm lý miễn phí</li>
+                <li>Đường dây nóng hỗ trợ 24/7</li>
+                <li>Tài liệu, video, hội thảo phòng chống ma túy</li>
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <h3><i class="fas fa-phone-volume icon"></i>Liên hệ</h3>
+            <ul>
+                <li><strong>Email:</strong> hotro@phongchongmatuy.vn</li>
+                <li><strong>Hotline:</strong> 1800 1234</li>
+                <li><strong>Địa chỉ:</strong> 123 Đường ABC, Quận 1, TP.HCM</li>
+            </ul>
+            <a class="btn btn-outline-primary" href="/support"><i class="fas fa-paper-plane"></i> Gửi yêu cầu hỗ trợ</a>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+    <i class="fas fa-leaf"></i> &copy; 2025 Hệ thống hỗ trợ phòng chống ma túy. Luôn bên bạn trên hành trình vượt qua thử thách.
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+</body>
+</html>
